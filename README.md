@@ -99,6 +99,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guohaolian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <img width="200%" src="https://github-readme-stats.vercel.app/api?username=guohaolian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guohaolian" />
+  <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guohaolian"/>
+</picture>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
