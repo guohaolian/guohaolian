@@ -97,6 +97,7 @@
 </div>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=guohaolian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guohaolian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </picture>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
