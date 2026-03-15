@@ -103,6 +103,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guohaolian" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guohaolian"/>
 </picture>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+<picture>
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</picture>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
