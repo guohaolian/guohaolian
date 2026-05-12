@@ -11,7 +11,7 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <a href="https://www.youtube.com/@guohaolian"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href="https://guohaolian.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <a href="https://space.bilibili.com/407092799/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
@@ -80,6 +80,12 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=guohaolian&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="./profile/stats.svg"/></td>
+    <td><img src="./profile/top-langs.svg"/></td>
   </tr>
 </table>
 <table>
