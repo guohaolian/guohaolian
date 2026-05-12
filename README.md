@@ -81,9 +81,11 @@
       </picture>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td><img  src="github-metrics.svg"/></td>
-    <td></td>
+    <td><img src="metrics.plugin.isocalendar.fullyear.svg"/></td>
   </tr>
 </table>
 
