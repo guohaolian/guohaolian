@@ -21,9 +21,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="./output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
@@ -84,14 +84,14 @@
 </table>
 <table>
   <tr>
-    <td><img src="./profile/stats.svg"/></td>
-    <td><img src="./profile/top-langs.svg"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile/stats.svg"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile/top-langs.svg"/></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img  src="github-metrics.svg"/></td>
-    <td><img src="metrics.plugin.isocalendar.fullyear.svg"/></td>
+    <td><img  src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/github-metrics.svg"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/metrics.plugin.isocalendar.fullyear.svg"/></td>
   </tr>
 </table>
 
@@ -175,9 +175,9 @@
 <img  style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile-3d-contrib/profile-south-season-animate.svg" />
 </picture>
 
 </div>
@@ -192,12 +192,12 @@
 
 <table>
   <tr>
-    <td><img src="metrics.plugin.languages.svg" alt="languages.indepth" /></td>
-    <td><img src="metrics.plugin.stargazers.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/metrics.plugin.languages.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/metrics.plugin.stargazers.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="metrics.plugin.stars.svg" alt="followup.indepth" /></td>
-    <td><img src="metrics.plugin.calendar.full.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/metrics.plugin.stars.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/metrics.plugin.calendar.full.svg" alt="repositories.pinned" /></td>
   </tr>
 </table>
 
