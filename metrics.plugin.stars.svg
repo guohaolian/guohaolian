@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xinghongia/Kirameku</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个基于 Next.js 16 + FastAPI 构建的高颜值前后端分离个人博客。毛玻璃设计、暗色模式、说说/杂谈/评论区、GitHub OAuth 登录、RSS 订阅、Markdown 写作、独立后台管理面板，简单部署，一站式开箱即用。</div>
@@ -44,7 +44,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        77
+                                        78
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guohaolian/API-Management</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">面向前后端协作的企业级 API 管理与版本控制系统，支持 API 迭代与版本管理、OpenAPI 导入/导出与前 端 TS 代码自动生成。解决传统 API 文档频繁更改的前后端对接不便，大幅提高对接、研发、联调效率。</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kludex/awesome-fastapi-projects</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -174,7 +174,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liaogx/fastapi-tutorial</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">整体的介绍 FastAPI，快速上手开发，结合 API 交互文档逐个讲解核心模块的使用。视频学习地址：</div>
