@@ -84,7 +84,7 @@
 </table>
 <table>
   <tr>
-    <td><img src="/profile/stats.svg"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile/stats.svg"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/profile/top-langs.svg"/></td>
   </tr>
 </table>
