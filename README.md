@@ -75,9 +75,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=guohaolian&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=guohaolian&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=guohaolian&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/dist/activity-graph-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/dist/activity-graph-light.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/guohaolian/guohaolian/dist/activity-graph-light.svg" />
       </picture>
     </td>
   </tr>
